@@ -1,0 +1,18 @@
+# Ignore generated data
+data/
+
+# But keep the folder structure (optional)
+!data/.gitkeep
+!data/texts/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
