@@ -1,9 +1,9 @@
 # Ignore generated data
-data/
+Week 1 - webscraping/data/
 
 # But keep the folder structure (optional)
-!data/.gitkeep
-!data/texts/.gitkeep
+!Week 1 - webscraping/data/.gitkeep
+!Week 1 - webscraping/data/texts/.gitkeep
 
 # Python cache
 __pycache__/
